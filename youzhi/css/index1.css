@@ -1,0 +1,136 @@
+header {
+  width: 7.2rem;
+  height: 0.91rem;
+  background: #ffffff;
+  margin: 0 auto;
+  border-bottom: 0.01rem solid #eeeaea;
+}
+header h3 {
+  height: 0.91rem;
+  margin: 0 auto;
+  font-size: 0.34rem;
+  display: inline-block;
+  text-align: center;
+  float: left;
+  
+  font-weight: normal;
+  line-height: 0.91rem;
+  margin-left: 2.3rem;
+}
+header .fanhui {
+  width: .22rem;
+  height: 0.34rem;
+  font-size: 0.4rem;
+  float: left;
+  margin-top: 0.24rem;
+  margin-left: 0.2rem;
+  display: inline-block;
+}
+header a span {
+  display: block;
+  width: 0.4rem;
+  float: right;
+  margin-right: 0.4rem;
+  text-align: center;
+  line-height: 0.95rem;
+}
+header .iconfont {
+  font-size: 0.4rem;
+}
+.xiangmu {
+  height: 1.71rem;
+  width: 6.9rem;
+  padding-left: .3rem;
+  padding-top: .1rem;
+  border-bottom: 0.01rem solid #cccccc;
+  margin: 0 auto;
+}
+.xiangmu a {
+  height: .51rem;
+  width: 1.18rem;
+  display: block;
+  float: left;
+  border-radius: .25rem ;
+  border: .01rem solid #ccc;
+  font-size: .22rem;
+  color: #666666;
+  margin-right: .09rem;
+  margin-top: .2rem;
+  text-align: center;
+  line-height: .5rem;
+}
+.xiangmu .seo {
+  border: .01rem solid #ff6c00;
+  color: #ff6c00;
+}
+.he {
+  width: 7.2rem;
+  height: .1rem;
+  background: #eeeaea;
+  margin: 0 auto;
+}
+.guang {
+  height: 1.88rem;
+  width: 6.9rem;
+  padding-top: .24rem;
+  padding-left: .3rem;
+  border-bottom: 0.01rem solid #eeeaea;
+  margin: 0 auto;
+}
+.guang img {
+  width: 2.8rem;
+  display: inline-block;
+  float: left;
+}
+.guang .nei {
+  width: 3.38rem;
+  float: left;
+  display: inline-block;
+  margin-left: .22rem;
+}
+.guang .nei h4 {
+  font-size: .28rem;
+  font-weight: normal;
+  color: #333333;
+  line-height: 0.42rem;
+}
+.guang .nei p {
+  font-size: .22rem;
+  color: #666666;
+  line-height: .4rem;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.guang .nei img {
+  margin-top: .06rem;
+  width: 2.85rem;
+}
+.jia {
+  height: 1.06rem;
+  width: 7.2rem;
+  margin: 0 auto;
+  font-size: .26rem;
+  color: #666666;
+  line-height: 1.06rem;
+  text-align: center;
+  border-bottom: 0.01rem solid #cccccc;
+}
+.jia span {
+  color: #ff6c00;
+  font-size: .26rem;
+}
+.foot {
+  font-size: 0.16rem;
+  color: #999999;
+  font-family: "微软雅黑";
+  text-align: center;
+  background: #eeeeee;
+  height: 1.73rem;
+  line-height: 0.40rem;
+  padding-top: 0.3rem;
+}
+.foot .diyi {
+  width: 4rem;
+}

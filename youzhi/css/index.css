@@ -1,0 +1,250 @@
+header {
+  width: 7.2rem;
+  height: 0.91rem;
+  background: #ffffff;
+  margin: 0 auto;
+}
+header .logo {
+  width: 1.23rem;
+  height: 0.42rem;
+  display: inline-block;
+  margin-top: 0.24rem;
+  margin-left: 0.2rem;
+  background: url(../images/logo.jpg) no-repeat;
+  background-size: 100%;
+  float: left;
+  
+}
+header a span {
+  display: block;
+  width: 0.4rem;
+  float: right;
+  margin-right: 0.4rem;
+  text-align: center;
+  line-height: 0.95rem;
+}
+header .iconfont {
+  font-size: 0.4rem;
+}
+.ad {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  margin-bottom: -0.1rem;
+  width: 7.2rem;
+}
+.ad img {
+  width: 7.2rem;
+}
+.nei {
+  width: 7.2rem;
+  height: 1.8rem;
+  margin: 0 auto;
+}
+.nei li {
+  width: 1.44rem;
+  height: 1.8rem;
+  float: left;
+  text-align: center;
+  border-bottom: 0.01rem solid #cccccc;
+}
+.nei li img {
+  width: 0.86rem;
+}
+h6 {
+  font-size: 0.22rem;
+  margin-top: -0.2rem;
+}
+.bei {
+  height: 0.1rem;
+  width: 7.2rem;
+  background: #eeeaea;
+  margin: 0 auto;
+}
+.zi {
+  width: 7.2rem;
+  height: 0.79rem;
+  margin: 0 auto;
+  border-bottom: 0.01rem solid #cccccc;
+}
+h5 {
+  font-size: 0.34rem;
+  line-height: 0.79rem;
+  display: inline-block;
+  float: left;
+  text-indent: 2em;
+}
+.zi span {
+  font-size: 0.22rem;
+  float: right;
+  line-height: 0.79rem;
+  color: #ff6c00;
+  display: inline-block;
+  margin-right: 0.37rem;
+  text-indent: 2em;
+}
+.dd1 {
+  height: 4.02rem;
+  width: 7.2rem;
+  margin: 0 auto;
+  position: relative;
+  border-bottom: 0.01rem solid #cccccc;
+}
+.dd1 a {
+  height: 3.77rem;
+  width: 3.6rem;
+  display: inline-block;
+  margin-top: 0.25rem;
+  float: left;
+  text-align: center;
+}
+.dd1 img {
+  width: 3.1rem;
+}
+.zi1 {
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 0.28rem;
+  line-height: 0.5rem;
+  margin-left: 0.1rem;
+}
+.xiaozi1 {
+  font-size: 0.22rem;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  line-height: 0.34rem;
+  margin-left: 0.1rem;
+}
+.pic {
+  position: absolute;
+  top: 3.45rem;
+  left: 0.1rem;
+}
+.pic1 {
+  position: absolute;
+  top: 3.45rem;
+  left: 3.6rem;
+}
+.dd2 {
+  height: 4.02rem;
+  width: 7.2rem;
+  margin: 0 auto;
+  position: relative;
+  border-bottom: 0.01rem solid #cccccc;
+}
+.dd2 a {
+  height: 3.77rem;
+  width: 3.6rem;
+  display: inline-block;
+  margin-top: 0.25rem;
+  float: left;
+  text-align: center;
+}
+.dd2 img {
+  width: 3.1rem;
+}
+.zi2 {
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 0.28rem;
+  line-height: 0.5rem;
+  margin-left: 0.1rem;
+}
+.xiaozi2 {
+  font-size: 0.22rem;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  margin-left: 0.1rem;
+  overflow: hidden;
+  line-height: 0.34rem;
+}
+.pic2 {
+  position: absolute;
+  top: 3.45rem;
+  left: 0.1rem;
+}
+.pic3 {
+  position: absolute;
+  top: 3.45rem;
+  left: 3.6rem;
+}
+.ad3 {
+  width: 7.2rem;
+  height: 1.49rem;
+  margin: 0 auto;
+  border-bottom: 0.01rem solid #e7e7e7;
+}
+.ad3 span {
+  font-size: 0.28rem;
+  display: inline-block;
+  margin-left: 0.28rem;
+  font-family: "微软雅黑";
+}
+.ad3 img {
+  width: 1.7rem;
+  float: right;
+  display: inline-block;
+  margin-top: 0.25rem;
+  margin-right: 0.3rem;
+}
+.guanzhu {
+  height: 2.61rem;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  width:7.2rem;
+}
+.guanzhu h3 {
+  font-size: 0.32rem;
+  line-height: 0.92rem;
+  display: inline;
+  float: left;
+}
+.guanzhu .img1 {
+  float: left;
+  display: inline-block;
+  margin-top: 0.5rem;
+  margin-left: 0.52rem;
+}
+.guanzhu .img2 {
+  float: left;
+  display: inline-block;
+  margin-top: 0.5rem;
+}
+.guanzhu img {
+  width: 2.41rem;
+}
+.guanzhu a img {
+  width: 1.26rem;
+}
+.guanzhu .ruan1 {
+  position: absolute;
+  top: 1rem;
+  left: 1.25rem;
+}
+.guanzhu .ruan2 {
+  position: absolute;
+  top: 1rem;
+  left: 3rem;
+}
+.guanzhu .ruan3 {
+  position: absolute;
+  top: 1rem;
+  left: 4.75rem;
+}
+.foot {
+  font-size: 0.16rem;
+  color: #999999;
+  font-family: "微软雅黑";
+  text-align: center;
+  background: #eeeeee;
+  height: 1.73rem;
+  line-height: 0.40rem;
+  padding-top: 0.3rem;
+}
+.foot .diyi {
+  width: 4rem;
+}
